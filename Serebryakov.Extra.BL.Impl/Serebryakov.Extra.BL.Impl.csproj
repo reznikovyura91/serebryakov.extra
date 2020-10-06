@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Serebryakov.Extra.BL.Abstraction\Serebryakov.Extra.BL.Abstraction.csproj" />
+  </ItemGroup>
+
+</Project>
